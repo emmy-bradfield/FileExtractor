@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-FileExtractor", "3-FileExtractor.csproj", "{1B8951ED-7CF4-4474-B8B3-104257B38D31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		File_Extractor|Any CPU = File_Extractor|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B8951ED-7CF4-4474-B8B3-104257B38D31}.File_Extractor|Any CPU.ActiveCfg = File_Extractor|Any CPU
+		{1B8951ED-7CF4-4474-B8B3-104257B38D31}.File_Extractor|Any CPU.Build.0 = File_Extractor|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6792CAC-5A2A-41C0-BBA6-DA577990A413}
+	EndGlobalSection
+EndGlobal

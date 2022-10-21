@@ -1,0 +1,13 @@
+============================================================================================================
+
+- Enter the name of the .txt file you wish to extract WITHOUT including the .txt extension
+- If the file is not found, ensure it is located in the /samples directory
+- Choose the extraction method:
+    - TXT: lines are not split; they are defined by line breaks
+    - CSV: lines are split; they are seperated in two by a comma
+- Choose the output method
+    - CONSOLE: the file will be printed line by line to the console; it will not be stored anywhere
+    - TEXTFILE: the file will be written into a new file in the /_extracts directory 
+- Following completion, choose X to extract another file, or any other key to exit the programme
+
+============================================================================================================

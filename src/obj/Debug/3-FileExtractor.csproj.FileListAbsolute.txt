@@ -1,0 +1,15 @@
+C:\Users\EmmyB.000\Projects\BradfieldsAllsorts\3-FileExtractor\app\3-FileExtractor.exe
+C:\Users\EmmyB.000\Projects\BradfieldsAllsorts\3-FileExtractor\app\3-FileExtractor.deps.json
+C:\Users\EmmyB.000\Projects\BradfieldsAllsorts\3-FileExtractor\app\3-FileExtractor.runtimeconfig.json
+C:\Users\EmmyB.000\Projects\BradfieldsAllsorts\3-FileExtractor\app\3-FileExtractor.dll
+C:\Users\EmmyB.000\Projects\BradfieldsAllsorts\3-FileExtractor\app\3-FileExtractor.pdb
+C:\Users\EmmyB.000\Projects\BradfieldsAllsorts\3-FileExtractor\src\obj\Debug\3-FileExtractor.csproj.AssemblyReference.cache
+C:\Users\EmmyB.000\Projects\BradfieldsAllsorts\3-FileExtractor\src\obj\Debug\3-FileExtractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmmyB.000\Projects\BradfieldsAllsorts\3-FileExtractor\src\obj\Debug\3-FileExtractor.AssemblyInfoInputs.cache
+C:\Users\EmmyB.000\Projects\BradfieldsAllsorts\3-FileExtractor\src\obj\Debug\3-FileExtractor.AssemblyInfo.cs
+C:\Users\EmmyB.000\Projects\BradfieldsAllsorts\3-FileExtractor\src\obj\Debug\3-FileExtractor.csproj.CoreCompileInputs.cache
+C:\Users\EmmyB.000\Projects\BradfieldsAllsorts\3-FileExtractor\src\obj\Debug\3-FileExtractor.dll
+C:\Users\EmmyB.000\Projects\BradfieldsAllsorts\3-FileExtractor\src\obj\Debug\refint\3-FileExtractor.dll
+C:\Users\EmmyB.000\Projects\BradfieldsAllsorts\3-FileExtractor\src\obj\Debug\3-FileExtractor.pdb
+C:\Users\EmmyB.000\Projects\BradfieldsAllsorts\3-FileExtractor\src\obj\Debug\3-FileExtractor.genruntimeconfig.cache
+C:\Users\EmmyB.000\Projects\BradfieldsAllsorts\3-FileExtractor\src\obj\Debug\ref\3-FileExtractor.dll
